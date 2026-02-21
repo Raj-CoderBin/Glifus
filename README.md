@@ -1,6 +1,7 @@
 # Glifus
 
-<img width="300" height="300" alt="logo_glifus(1)" src="https://github.com/user-attachments/assets/adcd7d17-4f91-413c-ae37-517a901a1c58" />
+<img width="300" height="300" alt="logo_glifus(2)" src="https://github.com/user-attachments/assets/54c724b2-a490-4fd3-9e6b-950b0da7fa6a" />
+
 
 
  Aplicativo multiplataforma para escrita a mão e manipulação de arquivos.
