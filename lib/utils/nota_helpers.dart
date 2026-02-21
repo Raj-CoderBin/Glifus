@@ -59,4 +59,12 @@ class NotaHelpers {
   }
 
   //métodos CRUD da tabela de contatos
+
+  //Cadastro de Notas
+
+  //Lista uma notas
+
+  //Edita uma nota
+
+  //Exclui uma nota
 }

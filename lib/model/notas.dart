@@ -26,4 +26,25 @@ class Notas {
   get data => this._data;
 
   set data(value) => this._data = value;
+
+  //Método de conversão de model para map
+  Map<String, dynamic> toMap() {
+    // criação do map
+    var dados = Map<String, dynamic>();
+
+    dados['id'] = _id;
+    dados['nome'] = _nome;
+    dados['assunto'] = _assunto;
+    dados['data'] = _data;
+
+    return dados;
+  }
+
+  // Métode de conversão de map para model
+  Notas.demapparamodel(Map<String, dynamic> dados) {
+    this._id = dados['id'];
+    this._nome = dados['nome'];
+    this._assunto = dados['assunto'];
+    this._data = dados['data'];
+  }
 }
