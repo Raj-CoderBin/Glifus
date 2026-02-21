@@ -4,8 +4,8 @@
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-/home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/rubs/Documentos/BigBangCode/Glifus/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
