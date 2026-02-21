@@ -1,2 +1,2 @@
 # Glifus
- Aplicativo multiplataforma para escrita e manipulação de arquivos.
+ Aplicativo multiplataforma para escrita a mão e manipulação de arquivos.
