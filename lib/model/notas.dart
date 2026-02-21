@@ -5,6 +5,10 @@ class Notas {
   String _assunto;
   String _data;
 
+  //construtor
+
+  Notas(this._id, this._nome, this._assunto, this._data);
+
   // getters and setters
 
   int get id => this._id;
