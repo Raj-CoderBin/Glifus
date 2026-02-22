@@ -1,3 +1,4 @@
+import 'package:glifus/service/models/task.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
@@ -40,5 +41,20 @@ class DatabaseService {
       _tasksContentColumnName: content,
       _tasksStatusColumnName: 0,
     });
+  }
+
+  Future<List<Task>?> getTasks() async {
+    final db = await database;
+    final data = await db.query(_tasksTableName);
+    List<Task> tasks = data
+        .map(
+          (e) => Task(
+            id: e["id"] as int,
+            content: e["content"] as String,
+            status: e["status"] as int,
+          ),
+        )
+        .toList();
+    return tasks;
   }
 }

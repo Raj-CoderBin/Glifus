@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:glifus/service/database_service.dart';
+import 'package:glifus/service/models/task.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -15,7 +16,7 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(floatingActionButton: _addTaskbutton());
+    return Scaffold(floatingActionButton: _addTaskbutton(), body: _tasksList());
   }
 
   Widget _addTaskbutton() {
@@ -60,6 +61,21 @@ class _HomeState extends State<Home> {
         );
       },
       child: const Icon(Icons.add),
+    );
+  }
+
+  Widget _tasksList() {
+    return FutureBuilder(
+      future: _databaseService.getTasks(),
+      builder: (context, snapshot) {
+        return ListView.builder(
+          itemCount: snapshot.data?.length ?? 0,
+          itemBuilder: (context, index) {
+            Task task = snapshot.data![index];
+            return ListTile(title: Text(task.content));
+          },
+        );
+      },
     );
   }
 }
