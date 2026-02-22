@@ -4,4 +4,4 @@
 
 
 
- Aplicativo multiplataforma para escrita a mão e manipulação de arquivos.
+ Aplicativo multiplataforma para escrita a mão, manipulação de arquivos e gerenciamento de tarefas.
