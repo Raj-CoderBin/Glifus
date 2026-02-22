@@ -22,6 +22,7 @@ class DatabaseService {
     final databasePath = join(databaseDirPath, "master_db.db");
     final database = await openDatabase(
       databasePath,
+      version: 1,
       onCreate: (db, version) {
         db.execute('''CREATE TABLE $_tasksTableName(
         $_tasksIdColumnName INTEGER PRIMARY KEY,
@@ -31,5 +32,13 @@ class DatabaseService {
     );
 
     return database;
+  }
+
+  void addTask(String content) async {
+    final db = await database;
+    await db.insert(_tasksTableName, {
+      _tasksContentColumnName: content,
+      _tasksStatusColumnName: 0,
+    });
   }
 }

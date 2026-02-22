@@ -1,1 +1,1 @@
- /home/rubs/Documentos/BigBangCode/Glifus/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/dart_build_result.json: 
+ /home/rubs/Documentos/BigBangCode/Glifus/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/dart_build_result.json:  /home/rubs/Documentos/BigBangCode/Glifus/.dart_tool/package_config.json /home/rubs/Documentos/BigBangCode/Glifus/pubspec.yaml /home/rubs/flutter/bin/cache/dart-sdk/version
