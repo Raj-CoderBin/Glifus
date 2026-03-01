@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ae6f424-811c-4252-8d5d-15483439a6ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/extension_discovery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/extension_discovery/vs_code.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/dart_build.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/dart_build.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/dart_build_result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/debug_bundle_linux-x64_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/install_code_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/install_code_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/kernel_snapshot_program.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/kernel_snapshot_program.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/linux_engine_sources.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/native_assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/unpack_linux.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/dart_plugin_registrant.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/shared/sqlite3/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/shared/sqlite3/build/download-4a25c09/libsqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/dependencies.dependencies_hash_file.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/hook.dependencies_hash_file.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/hook.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/hook.dill.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/input.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/stderr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/hooks_runner/sqlite3/eebbd4c216fabaf149248dfff8627329/stdout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/sqflite_common_ffi/databases/master_db.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/199e63d12aae48772fe1ad268adc4fc7.cache.dill.track.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/e76c05f9758eedd3dcf9d72c69b17aeb/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/e76c05f9758eedd3dcf9d72c69b17aeb/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/e76c05f9758eedd3dcf9d72c69b17aeb/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES.Z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NativeAssetsManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/shaders/stretch_effect.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/4.2.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/4.2.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/4.2.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/4.2.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/4.2.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/InstallScripts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/icudtl.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/glifus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/lib/libsqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/flutter/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/install_manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/intermediates_do_not_run/glifus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/runner/CMakeFiles/glifus.dir/__/flutter/generated_plugin_registrant.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/runner/CMakeFiles/glifus.dir/main.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/runner/CMakeFiles/glifus.dir/my_application.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/runner/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/native_assets/linux/libsqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3A2c9UIoUOfvme0uexGdHrRgE1m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/rubs/Documentos/BigBangCode/Glifus"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ae6f424-811c-4252-8d5d-15483439a6ee" name="Changes" comment="" />
+      <created>1771793958589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771793958589</updated>
+    </task>
+    <servers />
+  </component>
+</project>

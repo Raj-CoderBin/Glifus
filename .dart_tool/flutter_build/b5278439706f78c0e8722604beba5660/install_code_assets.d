@@ -1,1 +1,0 @@
- /home/rubs/Documentos/BigBangCode/Glifus/.dart_tool/flutter_build/b5278439706f78c0e8722604beba5660/native_assets.json:  /home/rubs/Documentos/BigBangCode/Glifus/.dart_tool/hooks_runner/shared/sqlite3/build/download-4a25c09/libsqlite3.so

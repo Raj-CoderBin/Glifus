@@ -1,0 +1,27 @@
+# Arquivos de compilação do Flutter e Dart
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+local.properties
+**/android/**/generated/
+**/android/app/src/main/res/generated/
+
+# iOS/macOS
+.generated/
+DerivedData/
+*.moved-aside
+Pods/
+
+# VSCodium / VS Code
+.vscode/
+.history/
+
+# Outros
+node_modules/
+.DS_Store
+*.log
